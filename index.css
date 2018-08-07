@@ -71,6 +71,12 @@ p {
     margin: 2% auto;
 }
 
+#logos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 @media (max-width: 600px) {
     #icon {
         max-width: 150px;
